@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230308
+# Name: VISHNUPRIYA E
+# Date:25/11/2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+<img width="1021" height="832" alt="use" src="https://github.com/user-attachments/assets/1c9b5ff6-a2d8-4490-9dc3-5ac516843a35" />
 
 
 
@@ -58,6 +59,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1004" height="699" alt="cla" src="https://github.com/user-attachments/assets/69243329-66ad-498a-9928-786df7f73126" />
 
 
 
@@ -66,6 +68,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="1034" height="906" alt="comm" src="https://github.com/user-attachments/assets/28a46472-c685-4344-b5a2-20239d85a0a3" />
 
 
 
@@ -79,6 +82,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="897" height="618" alt="pack" src="https://github.com/user-attachments/assets/4fe44b78-58c6-4285-b2eb-d752836c7613" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="879" height="863" alt="activ" src="https://github.com/user-attachments/assets/2d02dca4-8f61-410d-8fe9-3cdb6f136e72" />
 
 
 
@@ -118,6 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="912" height="767" alt="sequ" src="https://github.com/user-attachments/assets/b08a0a8d-929a-4602-b7e0-b39c8aa6ec3e" />
 
 
 
@@ -126,4 +132,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop Course Reservation and Exam Registration system was developed using Star UML Software is done successfully.
-
